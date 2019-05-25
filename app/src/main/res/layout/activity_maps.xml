@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     map:uiZoomControls="true"
-    map:liteMode="true"
+    map:liteMode="false"
     tools:context=".MapsActivity" />
 <!--Mode lite sirve para mostrar un mapa con las funcionalidades basica
 disinuyendo a si la carga y mejorando la eficiencia-->
